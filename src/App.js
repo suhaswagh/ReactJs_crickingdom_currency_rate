@@ -1,10 +1,8 @@
 import React, { Component } from 'react';
 import logo from './assets/logo.png';
-import Container from '@material-ui/core/Container';
 import Grid from '@material-ui/core/Grid';
 import './App.css';
 import SliderPage from './compnents/sliderpage';
-
 
 class App extends Component {
   constructor(props) {
